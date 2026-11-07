@@ -1,20 +1,19 @@
 {
   "app_name": "Plan Code | بلان كود",
-  "latest_version": "1.0.0",
-  "latest_version_code": 1,
-  "min_required_version": "1.0.0",
-  "min_required_version_code": 1,
-  "force_update": false,
-  "update_type": "optional",
-  "title": "تحديث جديد متوفر",
-  "message": "يتوفر إصدار جديد من تطبيق بلان كود يتضمن مميزات محسنة وأداء أسرع وإصلاحات لميزة البحث والمحاكيات.",
+  "latest_version": "1.0.1",
+  "latest_version_code": 3,
+  "min_required_version": "1.0.1",
+  "min_required_version_code": 3,
+  "force_update": true,
+  "update_type": "mandatory",
+  "title": "تحديث إجباري مطلوب",
+  "message": "يتطلب الاستمرار في استخدام التطبيق التحديث إلى الإصدار الجديد (1.0.1) لمتابعة العمل واستخدام المحاكيات.",
   "release_notes": [
-    "إصلاح ميزة البحث الذكي الشامل وتوحيد الأحرف العربية",
-    "تحديث أيقونة سيركيت كاد ومطابقتها بتدرج الألوان المماثل لبوابة الويب /user",
-    "تحسين دعم العمل أوفلاين بدون إنترنت لمحاكي الدوائر ومحاكي 3D",
-    "إضافة نظام التحديثات التلقائية المباشرة عبر GitHub"
+    "إصدار تطبيق بلان كود رقم v1.0.1",
+    "تحسينات عامة في أداء واستقرار المحاكيات الهندسية",
+    "تحديثات التوافق مع أحدث إصدارات أندرويد"
   ],
-  "download_url": "https://github.com/plancode-official/PlanCode-Release/releases/download/v1.0.0/PlanCode.apk",
+  "download_url": "https://github.com/plancode-official/PlanCode-Release/releases/download/v1.0.1/PlanCode.apk",
   "play_store_url": "https://play.google.com/store/apps/details?id=com.plancode.app",
   "use_play_store": false,
   "published_at": "2026-11-07"
