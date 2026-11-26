@@ -1,21 +1,21 @@
 {
   "app_name": "Plan Code | بلان كود",
-  "latest_version": "1.2.1",
-  "latest_version_code": 6,
-  "min_required_version": "1.2.1",
-  "min_required_version_code": 6,
+  "latest_version": "1.2.2",
+  "latest_version_code": 7,
+  "min_required_version": "1.2.2",
+  "min_required_version_code": 7,
   "force_update": true,
   "update_type": "mandatory",
   "title": "تحديث إجباري مطلوب",
-  "message": "يتطلب الاستمرار في استخدام التطبيق التحديث إلى الإصدار الجديد (1.2.1) للاستفادة من الكورسات والمحاكيات الجديدة وتسجيل الدخول المباشر بحساب جوجل.",
+  "message": "يتطلب الاستمرار في استخدام التطبيق التحديث إلى الإصدار الجديد (1.2.2) للاستفادة من شاشة التحميل المحدّثة، وتجاوب الموبايل في الكورسات ومحاكيات بلان كود، وتسجيل الدخول المباشر بحساب جوجل.",
   "release_notes": [
-    "فتح منصة بلان كود الحقيقية مباشرة بملء الشاشة بعد تسجيل الدخول مع دعم جميع الكورسات الجديدة",
-    "إصلاح تسجيل الدخول بحساب جوجل والرجوع تلقائياً داخل التطبيق بأمان",
-    "حفظ تلقائي للجلسة والكورسات والجدول محلياً للعمل أوفلاين عند انقطاع الإنترنت",
-    "دعم جميع المحاكيات المحدّثة أوفلاين: Circuit CAD و Envision 3D (صناعة الألعاب) و DIY Controller الجديد",
-    "دعم تنبيهات ورنّة المحاضرات المباشرة والقاعة التفاعلية بالكاميرا والمايك وفق سياسات Google Play"
+    "شاشة بداية وتحميل سوداء موحدة بشعار بلان كود دون انقسام أو شاشات مؤقتة",
+    "تحسين تجاوب الموبايل بالكامل في محاكي Envision 3D وصفحات الكورسات",
+    "فتح منصة بلان كود الحقيقية بملء الشاشة مع الحفظ التلقائي للعمل أوفلاين عند انقطاع الإنترنت",
+    "تسجيل الدخول المباشر بحساب جوجل والرجوع الآمن داخل التطبيق",
+    "دعم جميع المحاكيات المحدّثة أوفلاين: Circuit CAD و Envision 3D و DIY Controller"
   ],
-  "download_url": "https://github.com/plancode-official/PlanCode-Release/releases/download/v1.2.1/PlanCode.apk",
+  "download_url": "https://github.com/plancode-official/PlanCode-Release/releases/download/v1.2.2/PlanCode.apk",
   "play_store_url": "https://play.google.com/store/apps/details?id=com.plancode.app",
   "use_play_store": false,
   "published_at": "2026-11-26"
